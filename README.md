@@ -11,10 +11,12 @@ Step 3: Using np.linalg.inv(),we can find the inverse of a matrix
 Step 4: End the program 
 
 ## Program:
-<img width="1279" height="704" alt="image" src="https://github.com/user-attachments/assets/6085d592-1571-4c89-8e1a-0a4231fbeb74" />
+<img width="631" height="309" alt="Screenshot 2026-05-24 150756" src="https://github.com/user-attachments/assets/5b57f78c-612e-48b5-b891-670892063398" />
+
 
 ## Output:
-<img width="1265" height="234" alt="image" src="https://github.com/user-attachments/assets/72547809-110a-4123-9ca3-a21d0100a3df" />
+<img width="861" height="334" alt="Screenshot 2026-05-24 150801" src="https://github.com/user-attachments/assets/21fb0dba-dcbc-4be4-a1fc-0f14c485a4d5" />
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
